@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I am a 3rd year Data Science student with a passio
 - Python
 - R
 - SQL
+- Data Analysis
+- Data Visualization
 - Machine Learning
-- Data Visualization (Matplotlib, Seaborn)
-- Pandas, NumPy
-- TensorFlow, Keras
+- Neural Networks
 
 ## Projects
