@@ -1,1 +1,1 @@
-![Header](C:\Users\35387\OneDrive\Pictures\Screenshots\Screenshot (12).png)
+![Header](https://qsystems.com.co/wp-content/uploads/2019/05/Data-Science-Blog-Header-1658x468.jpg)
