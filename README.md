@@ -19,7 +19,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 **Key Features:**   
 **Skills Used:** 
 
-### 🤖 [Neural Network Model: Multilayer Perceptron (MLP)](https://github.com/your-neural-network-project-link)  
+### 🤖 [Sentiment Analysis](https://github.com/your-neural-network-project-link)  
 **Description:**  
 **Key Features:**  
 **Skills Used:** 
