@@ -12,7 +12,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 ### 🛡️ [Email Fraud Detection](https://github.com/your-email-fraud-detection-link)
 **Description:** Built an email fraud detection system using the SpamAssassin dataset.  
 **Key Features:** Implemented classification algorithms to classify emails as spam or not spam.
-**Skills Used:** j\bjb
+**Skills Used:**
 
 ### 📊 [Stock Price Forecasting](https://github.com/your-sales-forecasting-link)
 **Description:** Implemented an ARIMA model to forecast future stock prices on three datasets.  
