@@ -9,7 +9,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 
 ## 📂 Projects
 
-### 🛡️ [Email Fraud Detection](https://github.com/your-email-fraud-detection-link)
+### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
 **Description:** Built an email fraud detection system using the SpamAssassin dataset.  
 **Key Features:** Implemented classification algorithms to classify emails as spam or not spam.
 **Skills Used:**
