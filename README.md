@@ -14,7 +14,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 **Key Features:** Implemented classification algorithms to classify emails as spam or not spam.
 **Skills Used:**
 
-### 📊 [Stock Price Forecasting](https://github.com/your-sales-forecasting-link)
+### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Description:** Implemented an ARIMA model to forecast future stock prices on three datasets.  
 **Key Features:**   
 **Skills Used:** 
