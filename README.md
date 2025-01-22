@@ -14,14 +14,14 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 **Skills Used:** Python, Machine Learning, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
-**Description:** Implemented an ARIMA model to forecast future stock prices on three datasets.  
-**Key Features:**   
-**Skills Used:** 
+**Description:** Implemented time-series analysis to forecast future stock prices. 
+**Key Features:** Forecasted stock prices using an ARIMA model on the Arch Capital Group ltd. stock and the S&P500 index.
+**Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
 ### 🤖 [Sentiment Analysis](https://github.com/your-neural-network-project-link)  
-**Description:**  
-**Key Features:**  
-**Skills Used:** 
+**Description:** Sentiment analysis of movie reviews on the IMDB dataset.
+**Key Features:** Deployed an ensemble model made up of three neural networks (MLP, LSTM, GRU) for binary sentiment classification. Integrated Gradio for real-time predictions and user interaction.
+**Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Gradio, Model Deployment, Text Preprocessing, TensorFlow, Keras.
 
 # 🛠️ Skills
 
