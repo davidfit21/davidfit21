@@ -9,18 +9,23 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
 **Description:** Built an email fraud detection system using the SpamAssassin dataset.  
+<br>
 **Key Features:** Implemented classification algorithms to classify emails as spam or not spam.
 <br>
 **Skills Used:** Python, Machine Learning, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Description:** Implemented time-series analysis to forecast future stock prices. 
+<br>
 **Key Features:** Forecasted stock prices using an ARIMA model on the Arch Capital Group ltd. stock and the S&P500 index.
+<br>
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
 **Description:** Sentiment analysis of movie reviews on the IMDB dataset.
+<br>
 **Key Features:** Deployed an ensemble model made up of three neural networks (MLP, LSTM, GRU) for binary sentiment classification. Integrated Gradio for real-time predictions and user interaction.
+<br>
 **Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Gradio, Model Deployment, Text Preprocessing, TensorFlow, Keras.
 
 # 🛠️ Skills
