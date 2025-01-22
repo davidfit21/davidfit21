@@ -7,6 +7,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 
 ## 🛠️ Skills
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![R](https://www.logo.wine/logo/R_)
 
 ## 📂 Projects
 
