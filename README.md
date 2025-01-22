@@ -18,7 +18,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 **Key Features:** Forecasted stock prices using an ARIMA model on the Arch Capital Group ltd. stock and the S&P500 index.
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
-### 🤖 [Sentiment Analysis](https://github.com/your-neural-network-project-link)  
+### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
 **Description:** Sentiment analysis of movie reviews on the IMDB dataset.
 **Key Features:** Deployed an ensemble model made up of three neural networks (MLP, LSTM, GRU) for binary sentiment classification. Integrated Gradio for real-time predictions and user interaction.
 **Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Gradio, Model Deployment, Text Preprocessing, TensorFlow, Keras.
