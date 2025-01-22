@@ -25,7 +25,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 <br>
 **Key Features:** Deployed an ensemble model made up of three neural networks (MLP, LSTM, GRU) for binary sentiment classification. Integrated Gradio for real-time predictions and user interaction.
 <br>
-**Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Gradio, Model Deployment, Text Preprocessing, TensorFlow, Keras.
+**Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Model Deployment, Text Preprocessing, TensorFlow, Keras.
 
 # 🛠️ Skills
 
