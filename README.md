@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 👋
 I am a 3rd year Data Science student with a passion for solving real-world problems using data-driven solutions 🌐. I'm always striving to learn more about the latest technologies and trends in this field. I'm excited to share my learning with you through my project portfolio. Feel free to explore my work below!
 
 ## 🛠️ Skills
-![Python](https://www.postgresql.org/)
+![Python](https://www.python.org/community/logos/)
 
 ## 📂 Projects
 
