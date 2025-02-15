@@ -27,7 +27,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 <br>
 **Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Model Deployment, Text Preprocessing, TensorFlow, Keras.
 
-### ☕ [Java Files](https://github.com/davidfit21/Java_Files_DCU)
+### ☕ [Java Programming](https://github.com/davidfit21/Java_Files_DCU)
 **Description:** A series of Java files completed during my course.
 <br>
 **Key Features:** Simple and Clean Code, Versatile Projects, Compile and Run, Custom Data Structures, Beginner-Friendly.
