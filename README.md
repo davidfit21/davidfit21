@@ -1,5 +1,5 @@
 
-![GitHub Banner](https://github.com/davidfit21/davidfit21/blob/main/GitHub%20Header%20(1).jpeg)
+![GitHub Banner](Black And Grey Professional Technology LinkedIn Banner.png)
 
 # David Fit
 Welcome to my GitHub profile! 👋 
