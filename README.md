@@ -9,9 +9,9 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
 **Description:** Built an email fraud detection system using the SpamAssassin dataset.  
-**Key Features:** Implemented classification algorithms to classify emails as spam or not spam.
+**Key Features:** Implemented classification algorithms to classify emails as harmful or legitimate.
 <br>
-**Skills Used:** Python, Machine Learning, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
+**Skills Used:** Python, ML Model Development, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Description:** Implemented time-series analysis to forecast future stock prices. 
@@ -28,7 +28,7 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 **Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Model Deployment, Text Preprocessing, TensorFlow, Keras.
 
 ### ☕ [Java Programming](https://github.com/davidfit21/Java_Files_DCU)
-**Description:** A series of Java files completed during my course.
+**Description:** A series of Java files completed during my time at DCU.
 <br>
 **Key Features:** Simple and Clean Code, Versatile Projects, Compile and Run, Custom Data Structures, Beginner-Friendly.
 <br>
