@@ -1,5 +1,5 @@
 
-![GitHub Banner](img src="https://github.com/davidfit21/davidfit21/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%")
+![GitHub Banner]<img src="https://github.com/davidfit21/davidfit21/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%">
 
 # David Fit
 Welcome to my GitHub profile! 👋 
