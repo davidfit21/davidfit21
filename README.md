@@ -50,7 +50,6 @@
 ### ☕ [Java Programming Projects](https://github.com/davidfit21/Java_Files_DCU)
 **Domain:** Software Engineering | Object-Oriented Design  
 **Context:** Academic java scripts developed during academic studies 
-
 **Core Methodologies:** OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation
 
 # 🛠️ Skills
