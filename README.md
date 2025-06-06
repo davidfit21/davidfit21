@@ -14,31 +14,26 @@
 # 📂 Projects
 
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
-**Description:** Built an email fraud detection system using the SpamAssassin dataset.  
-**Key Features:** Implemented classification algorithms to classify emails as harmful or legitimate.
+**Domain:** Cybersecurity Analytics
 <br>
-
-### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
-**Domain:** Cybersecurity Analytics |
 **Problem:** Binary classification of malicious vs. legitimate emails  
 **Key Contributions:**  
 - Designed a fraud detection system leveraging NLP techniques  
 - Optimized feature space to improve model precision
+<br>
 **Skills Used:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
-### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
-**Description:** Implemented time-series analysis to forecast future stock prices. 
+### 📊 Stock Price Forecasting  
+**Domain:** Financial Time-Series Analysis
 <br>
-**Key Features:** Forecasted stock prices using an ARIMA model on the Arch Capital Group ltd. stock and the S&P500 index.
+**Problem:** Predicting equity price movements using statistical modeling  
+<br>
+**Key Contributions:**  
+- Implemented ARIMA modeling for stock-price forecasting on:
+  • S&P 500 index (macro-market benchmark)  
+  • Arch Capital Group Ltd. (individual equity) 
 <br>
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
-
-### 📊 Stock Price Forecasting  
-**Domain:** Financial Time-Series Analysis | **Problem:** Predictive modeling of equity trends  
-**Key Contributions:**  
-- Implemented ARIMA modeling for volatility-aware forecasting  
-- Validated results against benchmark indices (S&P500)  
-- Reduced forecast error by [X]% through residual analysis 
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
 **Description:** Sentiment analysis of movie reviews on the IMDB dataset.
