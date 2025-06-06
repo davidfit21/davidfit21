@@ -20,7 +20,7 @@
 **Key Contributions:**  
 - Designed a fraud detection system leveraging NLP techniques  
 - Optimized feature space to improve model precision
-<br>
+
 **Skills Used:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
 ### 📊 Stock Price Forecasting  
@@ -28,10 +28,12 @@
 <br>
 **Problem:** Predicting equity price movements using statistical modeling  
 <br>
-**Key Contributions:**  
+**Key Contributions:**
 - Implemented ARIMA modeling for stock-price forecasting on:
   • S&P 500 index (macro-market benchmark)
+<br>
   • Arch Capital Group Ltd. (individual equity)
+<br>
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
