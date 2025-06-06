@@ -2,7 +2,13 @@
 
 # David Fit
 Welcome to my GitHub profile! 👋 
-I am a 3rd year Data Science student with a passion for solving real-world problems using data-driven solutions 🌐. I'm always striving to learn more about the latest technologies and trends in this field. I'm excited to share my learning with you through my project portfolio. Feel free to explore my work below!
+I am a 3rd year Data Science student with a passion for solving real-world problems using data-driven solutions. I'm always striving to learn more about the latest technologies and trends in this field. I'm excited to share my learning with you through my project portfolio. Feel free to explore my work below!
+
+# 📞 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fit-b6673a31a/)
 
 # 📂 Projects
 
@@ -75,10 +81,4 @@ Operating Systems
 ![Linux](https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
 ![Ubuntu](https://camo.githubusercontent.com/dd44c065577f813a8d6c976fef88976f812eed4bfcfa20fa6b23ebb899a09531/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465)
 ![Windows](https://camo.githubusercontent.com/1cc3ed014dbb3cc907789013096c44d0bc78875ee219d9455f619ff18059ac4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
-
-# 📞 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fit-b6673a31a/)
 
