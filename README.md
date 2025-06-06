@@ -26,9 +26,9 @@
 **Domain:** Financial Time-Series Analysis
 **Problem:** Predicting equity price movements using statistical modeling  
 **Key Contributions:**
-- Implemented ARIMA modeling for stock-price forecasting on:
-  • S&P 500 index (macro-market benchmark) <br>
-  • Arch Capital Group Ltd. (individual equity) <br>
+- Implemented ARIMA modeling for stock-price forecasting on:<br>
+  • S&P 500 index (macro-market benchmark)<br>
+  • Arch Capital Group Ltd. (individual equity)
 
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
