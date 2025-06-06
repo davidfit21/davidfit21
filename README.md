@@ -21,7 +21,7 @@
 - Designed a fraud detection system leveraging NLP techniques  
 - Optimized feature space to improve model precision
 
-**Skills Used:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
+**Core Methodologies:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Domain:** Financial Time-Series Analysis
@@ -32,7 +32,7 @@
   • S&P 500 index (macro-market benchmark)<br>
   • Arch Capital Group Ltd. (individual equity)
 
-**Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
+**Core Methodologies:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
 **Domain:** NLP | Deep Learning | Model Deployment  
@@ -40,19 +40,19 @@
 
 **Key Contributions:**   
 - Engineered a hybrid neural ensemble combining:  
-  1. MLP (dense network)  
-  2. LSTM (sequential context)  
-  3. GRU (efficient temporal modeling)  
+  • MLP (dense network)  
+  • LSTM (sequential context)  
+  • GRU (efficient temporal modeling)  
 - Deployed interactive demo via Gradio for real-time inference
 
-**Skills Used:** Text vectorization, Neural architecture design, Model stacking, Deployment pipelines  
+**Core Methodologies:** Text vectorization, Neural architecture design, Model stacking, Deployment pipelines  
 
-### ☕ [Java Programming](https://github.com/davidfit21/Java_Files_DCU)
-**Description:** A series of Java files completed during my time at DCU.
-<br>
-**Key Features:** Simple and Clean Code, Versatile Projects, Compile and Run, Custom Data Structures, Beginner-Friendly.
-<br>
-**Skills Used:** Object-Oriented Programming (OOP), User Input Handling, Data Structures, Methods and Functionality, Exception Handling, Encapsulation.
+### ☕ [Java Programming Projects](https://github.com/davidfit21/Java_Files_DCU)
+**Domain:** Software Engineering | Object-Oriented Design  
+**Context:** Academic java scripts developed dueing academic studies 
+
+**Core Methodologies:**  
+OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation.
 
 # 🛠️ Skills
 
