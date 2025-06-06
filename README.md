@@ -9,7 +9,7 @@
 - **AI Systems**: Pattern recognition, anomaly detection, decision intelligence  
 - **Data Analysis**: Statistical inference, business intelligence, causal analysis  
 
-🔍 **Research Interests**:  AI modeling architectures | Quantitative analysis frameworks | Data-driven optimization
+🔍 **Research Interests**:  AI modeling architectures, Quantitative analysis frameworks, Data-driven optimization
 
 # 📂 Projects
 
