@@ -15,7 +15,6 @@
 
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
 **Domain:** Cybersecurity Analytics
-<br>
 **Problem:** Binary classification of malicious vs. legitimate emails  
 **Key Contributions:**  
 - Designed a fraud detection system leveraging NLP techniques  
@@ -25,14 +24,11 @@
 
 ### 📊 Stock Price Forecasting  
 **Domain:** Financial Time-Series Analysis
-<br>
 **Problem:** Predicting equity price movements using statistical modeling  
-<br>
 **Key Contributions:**
 - Implemented ARIMA modeling for stock-price forecasting on:
-  • S&P 500 index (macro-market benchmark)
-<br>
-  • Arch Capital Group Ltd. (individual equity)
+  • S&P 500 index (macro-market benchmark) <br>
+  • Arch Capital Group Ltd. (individual equity) <br>
 
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
