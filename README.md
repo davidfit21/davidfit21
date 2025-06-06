@@ -9,7 +9,7 @@
 - **AI Systems**: Pattern recognition, anomaly detection, decision intelligence  
 - **Data Analysis**: Statistical inference, business intelligence, causal analysis  
 
-🔍 **Research Interests**: Explainable AI (XAI), stochastic optimization, operational analytics 
+🔍 **Research Interests**:  AI modeling architectures | Quantitative analysis frameworks | Data-driven optimization
 
 # 📂 Projects
 
@@ -49,7 +49,7 @@
 
 ### ☕ [Java Programming Projects](https://github.com/davidfit21/Java_Files_DCU)
 **Domain:** Software Engineering | Object-Oriented Design  
-**Context:** Academic java scripts developed dueing academic studies 
+**Context:** Academic java scripts developed during academic studies 
 
 **Core Methodologies:** OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation
 
