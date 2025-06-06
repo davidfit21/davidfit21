@@ -17,14 +17,14 @@
 **Description:** Built an email fraud detection system using the SpamAssassin dataset.  
 **Key Features:** Implemented classification algorithms to classify emails as harmful or legitimate.
 <br>
-**Skills Used:** Python, ML Model Development, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
-### 🛡️ Email Fraud Detection  
-**Domain:** Cybersecurity Analytics | **Problem:** Binary classification of malicious vs. legitimate emails  
+### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
+**Domain:** Cybersecurity Analytics |
+**Problem:** Binary classification of malicious vs. legitimate emails  
 **Key Contributions:**  
 - Designed a fraud detection system leveraging NLP techniques  
-- Optimized feature space to improve model precision  
-- Achieved [X]% accuracy in identifying phishing attempts 
+- Optimized feature space to improve model precision
+**Skills Used:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Description:** Implemented time-series analysis to forecast future stock prices. 
