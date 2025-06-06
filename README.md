@@ -42,7 +42,7 @@
 - Engineered a hybrid neural ensemble combining:  
   • MLP (dense network)  
   • LSTM (sequential context)  
-  • GRU (efficient temporal modeling)  
+  • GRU (temporal dependencies) 
 - Deployed interactive demo via Gradio for real-time inference
 
 **Core Methodologies:** Text vectorization, Neural architecture design, Model stacking, Deployment pipelines  
@@ -51,8 +51,7 @@
 **Domain:** Software Engineering | Object-Oriented Design  
 **Context:** Academic java scripts developed dueing academic studies 
 
-**Core Methodologies:**  
-OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation
+**Core Methodologies:** OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation
 
 # 🛠️ Skills
 
