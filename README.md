@@ -21,7 +21,7 @@
 - Designed a fraud detection system leveraging NLP techniques  
 - Optimized feature space to improve model precision
 
-**Core Methodologies:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
+**Core Methodologies:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation
 
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Domain:** Financial Time-Series Analysis
@@ -32,7 +32,7 @@
   • S&P 500 index (macro-market benchmark)<br>
   • Arch Capital Group Ltd. (individual equity)
 
-**Core Methodologies:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
+**Core Methodologies:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
 **Domain:** NLP | Deep Learning | Model Deployment  
@@ -52,7 +52,7 @@
 **Context:** Academic java scripts developed dueing academic studies 
 
 **Core Methodologies:**  
-OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation.
+OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation
 
 # 🛠️ Skills
 
