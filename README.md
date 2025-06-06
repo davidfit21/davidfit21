@@ -14,7 +14,7 @@
 # 📂 Projects
 
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
-**Domain:** Cybersecurity Analytics
+**Domain:** Cybersecurity Analytics    
 **Problem:** Binary classification of malicious vs. legitimate emails  
 
 **Key Contributions:**     
@@ -24,7 +24,7 @@
 **Core Methodologies:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation
 
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
-**Domain:** Financial Time-Series Analysis
+**Domain:** Financial Time-Series Analysis    
 **Problem:** Predicting equity price movements using statistical modeling  
 
 **Key Contributions:**   
@@ -35,7 +35,7 @@
 **Core Methodologies:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
-**Domain:** NLP | Deep Learning | Model Deployment  
+**Domain:** NLP, Deep Learning, Model Deployment  
 **Problem:** Binary sentiment classification at scale  
 
 **Key Contributions:**   
@@ -48,7 +48,7 @@
 **Core Methodologies:** Text vectorization, Neural architecture design, Model stacking, Deployment pipelines  
 
 ### ☕ [Java Programming Projects](https://github.com/davidfit21/Java_Files_DCU)
-**Domain:** Software Engineering | Object-Oriented Design  
+**Domain:** Software Engineering, Object-Oriented Design  
 **Context:** Academic java scripts developed during academic studies   
 **Core Methodologies:** OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation
 
