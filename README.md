@@ -2,15 +2,14 @@
 
 # David Fit
 
-### Data Science | Machine Learning | Python | SQL
-
 **3rd-year Data Science student** specializing in applied machine learning and data-driven problem-solving. My work focuses on:
 
-- **Predictive modeling** (Scikit-learn, TensorFlow)
-- **Data engineering** (ETL, optimization, SQL/Pandas) 
-- **Deploying scalable solutions** (Flask, FastAPI)
+- **Predictive Analytics**: Time series forecasting, regression modeling  
+- **Data Optimization**: Feature engineering, model efficiency, hyperparameter tuning  
+- **AI Systems**: Pattern recognition, anomaly detection, decision intelligence  
+- **Data Analysis**: Statistical inference, business intelligence, causal analysis  
 
-🔍 **Currently exploring**: MLOps, cloud deployment (AWS/GCP)
+🔍 **Research Interests**: Explainable AI (XAI), stochastic optimization, operational analytics 
 
 # 📂 Projects
 
@@ -20,12 +19,26 @@
 <br>
 **Skills Used:** Python, ML Model Development, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
+### 🛡️ Email Fraud Detection  
+**Domain:** Cybersecurity Analytics | **Problem:** Binary classification of malicious vs. legitimate emails  
+**Key Contributions:**  
+- Designed a fraud detection system leveraging NLP techniques  
+- Optimized feature space to improve model precision  
+- Achieved [X]% accuracy in identifying phishing attempts 
+
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Description:** Implemented time-series analysis to forecast future stock prices. 
 <br>
 **Key Features:** Forecasted stock prices using an ARIMA model on the Arch Capital Group ltd. stock and the S&P500 index.
 <br>
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
+
+### 📊 Stock Price Forecasting  
+**Domain:** Financial Time-Series Analysis | **Problem:** Predictive modeling of equity trends  
+**Key Contributions:**  
+- Implemented ARIMA modeling for volatility-aware forecasting  
+- Validated results against benchmark indices (S&P500)  
+- Reduced forecast error by [X]% through residual analysis 
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
 **Description:** Sentiment analysis of movie reviews on the IMDB dataset.
@@ -40,12 +53,6 @@
 **Key Features:** Simple and Clean Code, Versatile Projects, Compile and Run, Custom Data Structures, Beginner-Friendly.
 <br>
 **Skills Used:** Object-Oriented Programming (OOP), User Input Handling, Data Structures, Methods and Functionality, Exception Handling, Encapsulation.
-
-# 📞 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fit-b6673a31a/)
 
 # 🛠️ Skills
 
@@ -90,3 +97,8 @@ Operating Systems
 ![Ubuntu](https://camo.githubusercontent.com/dd44c065577f813a8d6c976fef88976f812eed4bfcfa20fa6b23ebb899a09531/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465)
 ![Windows](https://camo.githubusercontent.com/1cc3ed014dbb3cc907789013096c44d0bc78875ee219d9455f619ff18059ac4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
 
+# 📞 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fit-b6673a31a/)
