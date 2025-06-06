@@ -33,7 +33,7 @@
   • S&P 500 index (macro-market benchmark)
 <br>
   • Arch Capital Group Ltd. (individual equity)
-<br>
+
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
 ### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
