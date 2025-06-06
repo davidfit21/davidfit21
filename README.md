@@ -20,6 +20,7 @@
 **Key Contributions:**  
 - Designed a fraud detection system leveraging NLP techniques  
 - Optimized feature space to improve model precision
+<br>
 **Skills Used:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
 ### 📊 Stock Price Forecasting  
@@ -29,7 +30,7 @@
 <br>
 **Key Contributions:**  
 - Implemented ARIMA modeling for stock-price forecasting on:
-  • S&P 500 index (macro-market benchmark)  
+  • S&P 500 index (macro-market benchmark)
   • Arch Capital Group Ltd. (individual equity)
 **Skills Used:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling.
 
