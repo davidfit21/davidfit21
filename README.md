@@ -16,6 +16,7 @@
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
 **Domain:** Cybersecurity Analytics
 **Problem:** Binary classification of malicious vs. legitimate emails  
+
 **Key Contributions:**     
 - Designed a fraud detection system leveraging NLP techniques  
 - Optimized feature space to improve model precision
@@ -25,6 +26,7 @@
 ### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Domain:** Financial Time-Series Analysis
 **Problem:** Predicting equity price movements using statistical modeling  
+
 **Key Contributions:**   
 - Implemented ARIMA modeling for stock-price forecasting on:<br>
   • S&P 500 index (macro-market benchmark)<br>
