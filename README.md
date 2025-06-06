@@ -22,7 +22,7 @@
 
 **Skills Used:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation. 
 
-### 📊 Stock Price Forecasting  
+### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
 **Domain:** Financial Time-Series Analysis
 **Problem:** Predicting equity price movements using statistical modeling  
 **Key Contributions:**
@@ -38,6 +38,21 @@
 **Key Features:** Deployed an ensemble model made up of three neural networks (MLP, LSTM, GRU) for binary sentiment classification. Integrated Gradio for real-time predictions and user interaction.
 <br>
 **Skills Used:** Deep Learning, Neural Networks, Model Ensembling, Model Deployment, Text Preprocessing, TensorFlow, Keras.
+
+### 🤖 [Sentiment Analysis](https://github.com/davidfit21/Sentiment_Analysis)  
+**Domain:** NLP | Deep Learning | Model Deployment  
+**Problem:** Binary sentiment classification at scale  
+
+**Key Contributions:**  
+- Engineered a hybrid neural ensemble combining:  
+  • MLP (dense network)  
+  • LSTM (sequential context)  
+  • GRU (efficient temporal modeling)  
+- Achieved [X]% accuracy on IMDB movie reviews  
+- Deployed interactive demo via Gradio for real-time inference  
+
+**Technical Approach:**  
+Text vectorization, Neural architecture design, Model stacking, Deployment pipelines  
 
 ### ☕ [Java Programming](https://github.com/davidfit21/Java_Files_DCU)
 **Description:** A series of Java files completed during my time at DCU.
