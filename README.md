@@ -4,12 +4,6 @@
 Welcome to my GitHub profile! 👋 
 I am a 3rd year Data Science student with a passion for solving real-world problems using data-driven solutions. I'm always striving to learn more about the latest technologies and trends in this field. I'm excited to share my learning with you through my project portfolio. Feel free to explore my work below!
 
-# 📞 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fit-b6673a31a/)
-
 # 📂 Projects
 
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
@@ -38,6 +32,12 @@ I am a 3rd year Data Science student with a passion for solving real-world probl
 **Key Features:** Simple and Clean Code, Versatile Projects, Compile and Run, Custom Data Structures, Beginner-Friendly.
 <br>
 **Skills Used:** Object-Oriented Programming (OOP), User Input Handling, Data Structures, Methods and Functionality, Exception Handling, Encapsulation.
+
+# 📞 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fit-b6673a31a/)
 
 # 🛠️ Skills
 
