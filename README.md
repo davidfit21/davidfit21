@@ -1,8 +1,16 @@
 <img src="https://github.com/davidfit21/davidfit21/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.png" alt="GitHub Banner" width="100%">
 
 # David Fit
-Welcome to my GitHub profile! 👋 
-I am a 3rd year Data Science student with a passion for solving real-world problems using data-driven solutions. I'm always striving to learn more about the latest technologies and trends in this field. I'm excited to share my learning with you through my project portfolio. Feel free to explore my work below!
+
+### Data Science | Machine Learning | Python | SQL
+
+**3rd-year Data Science student** specializing in applied machine learning and data-driven problem-solving. My work focuses on:
+
+- **Predictive modeling** (Scikit-learn, TensorFlow)
+- **Data engineering** (ETL, optimization, SQL/Pandas) 
+- **Deploying scalable solutions** (Flask, FastAPI)
+
+🔍 **Currently exploring**: MLOps, cloud deployment (AWS/GCP)
 
 # 📂 Projects
 
