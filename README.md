@@ -13,6 +13,18 @@
 
 # 📂 Projects
 
+### 📈 [Quantitative Research Simulation]()
+**Domain:** Quantitative Finance / Financial Econometrics
+**Problem:** A multi-faceted simulation addressing key challenges in quantitative finance: forecasting natural gas prices, valuing complex storage contracts, modeling credit risk, and developing robust credit rating systems.
+
+**Key Contributions:**
+- Natural Gas Price Forecasting
+- Natural Gas Storage Contract Valuation
+- Credit Risk Modeling
+- FICO Score Quantization
+
+**Core Methodologies:**  Time Series Analysis (Curve Fitting), Financial Modeling, Monte Carlo Simulation, Logistic Regression, Dynamic Programming, Statistical Modeling
+
 ### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
 **Domain:** Cybersecurity Analytics    
 **Problem:** Binary classification of malicious vs. legitimate emails  
