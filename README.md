@@ -2,7 +2,7 @@
 
 # David Fit
 
-**3rd-year Data Science student** specializing in applied machine learning and data-driven problem-solving. My work focuses on:
+**Final-year Data Science student** specializing in applied machine learning and data-driven problem-solving:
 
 - **Predictive Analytics**: Time series forecasting, regression modeling  
 - **Data Optimization**: Feature engineering, model efficiency, hyperparameter tuning  
