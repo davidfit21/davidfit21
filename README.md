@@ -1,56 +1,92 @@
 <img src="https://github.com/davidfit21/davidfit21/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="GitHub Banner" width="100%">
 
+
 # David Fit
 
-**Final-year Data Science student** specializing in applied machine learning and data-driven problem-solving:
+Data Scientist and AI Engineer with a background in machine learning, predictive analytics, and applied artificial intelligence. I recently completed a B.Sc. in Data Science with Artificial Intelligence at Dublin City University and have industry experience developing AI and data-driven solutions in collaboration with HT Materials Science.
 
-- **Predictive Analytics**: Time series forecasting, regression modeling  
-- **Data Optimization**: Feature engineering, model efficiency, hyperparameter tuning  
-- **AI Systems**: Pattern recognition, anomaly detection, decision intelligence  
-- **Data Analysis**: Statistical inference, business intelligence, causal analysis  
+My work focuses on transforming complex datasets into actionable insights through statistical analysis, machine learning, optimization, and data engineering.
 
-🔍 **Research Interests**:  AI modeling architectures, Quantitative analysis frameworks, Data-driven optimization
+## Areas of Interest
 
-# 📂 Projects
+* Artificial Intelligence & Machine Learning
+* Predictive Modelling
+* Data Science & Analytics
+* Energy AI & Sustainable Technologies
+* Time Series Forecasting
+* Quantitative Research
+* Feature Engineering & Optimization
+* MLOps & Model Deployment
+* Data Engineering & Automation
 
-### 📈 [Quantitative Research Simulation](https://github.com/davidfit21/Quantitative_Research)
-**Domain:** Quantitative Finance / Financial Econometrics  
-**Problem:** A multi-faceted simulation addressing key challenges in quantitative finance: forecasting natural gas prices, valuing complex storage contracts, modeling credit risk, and developing robust credit rating systems.
+## What You'll Find Here
 
-**Key Contributions:**
-- Natural Gas Price Forecasting
-- Natural Gas Storage Contract Valuation
-- Credit Risk Modeling
-- FICO Score Quantization
+This GitHub serves as a collection of projects, research, and technical work spanning:
 
-**Core Methodologies:**  Time Series Analysis (Curve Fitting), Financial Modeling, Monte Carlo Simulation, Logistic Regression, Dynamic Programming, Statistical Modeling
+* Machine Learning Applications
+* Predictive Analytics & Forecasting
+* Data Engineering Pipelines
+* Artificial Intelligence Research
+* Statistical Modelling
+* Quantitative Finance Projects
+* Natural Language Processing (NLP)
+* Data Visualization & Business Intelligence
+* Academic Research & Industry Collaboration
 
-### 🛡️ [Email Fraud Detection](https://github.com/davidfit21/Email_Fraud_Detection)
-**Domain:** Cybersecurity Analytics    
-**Problem:** Binary classification of malicious vs. legitimate emails  
+## Technical Skills
 
-**Key Contributions:**     
-- Designed a fraud detection system leveraging NLP techniques  
-- Optimized feature space to improve model precision
+### Programming Languages
 
-**Core Methodologies:** Python, Natural Language Processing (NLP), Data Preprocessing, Feature Engineering, Model Evaluation
+* Python
+* SQL
+* Java
+* R
 
-### 📊 [Stock Price Forecasting](https://github.com/davidfit21/Stock_Price_Forecasting)
-**Domain:** Financial Time-Series Analysis    
-**Problem:** Predicting equity price movements using statistical modeling  
+### Data Science & Machine Learning
 
-**Key Contributions:**   
-- Implemented ARIMA modeling for stock-price forecasting on:<br>
-  • S&P 500 index (macro-market benchmark)<br>
-  • Arch Capital Group Ltd. (individual equity)
+* Scikit-Learn
+* XGBoost
+* LightGBM
+* CatBoost
+* Pandas
+* NumPy
+* TensorFlow
+* PyTorch
 
-**Core Methodologies:** ARIMA, Time Series Analysis, Data Visualization, Time Series Decomposition, Statistical Modeling
+### Data Engineering & Analytics
 
-### ☕ [Java Programming Projects](https://github.com/davidfit21/Java_Files_DCU)
-**Domain:** Software Engineering, Object-Oriented Design  
-**Context:** Academic java scripts developed during academic studies   
-**Core Methodologies:** OOP Paradigms, Algorithm Optimization, Memory Management, Unit Testing, Exception Handling, Encapsulation
-# 📞 Contact
+* SQL Databases
+* ETL Pipelines
+* Data Cleaning & Transformation
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
 
+### Visualization & Reporting
+
+* Power BI
+* Tableau
+* Matplotlib
+* Seaborn
+* Plotly
+
+### Tools & Platforms
+
+* Git & GitHub
+* Jupyter Notebook
+* Docker
+* Streamlit
+* Azure
+* Linux
+
+## Current Focus
+
+* Applied AI and Machine Learning
+* Energy & Thermal Systems Modelling
+* Data-Driven Decision Intelligence
+* Quantitative Research and Forecasting
+* Building Scalable AI Solutions
+
+## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fit-b6673a31a/)
