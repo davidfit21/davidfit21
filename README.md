@@ -3,9 +3,7 @@
 
 # David Fit
 
-Data Scientist and AI Engineer with a background in machine learning, predictive analytics, and applied artificial intelligence. I recently completed a B.Sc. in Data Science with Artificial Intelligence at Dublin City University and have industry experience developing AI and data-driven solutions in collaboration with HT Materials Science.
-
-My work focuses on transforming complex datasets into actionable insights through statistical analysis, machine learning, optimization, and data engineering.
+Data Scientist with experience in machine learning, predictive analytics, and applied artificial intelligence. I recently completed a B.Sc. in Data Science with Artificial Intelligence at Dublin City University and have industry experience developing data-driven solutions in thermal management systems.
 
 ## Areas of Interest
 
@@ -14,9 +12,6 @@ My work focuses on transforming complex datasets into actionable insights throug
 * Data Science & Analytics
 * Energy AI & Sustainable Technologies
 * Time Series Forecasting
-* Quantitative Research
-* Feature Engineering & Optimization
-* MLOps & Model Deployment
 * Data Engineering & Automation
 
 ## What You'll Find Here
