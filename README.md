@@ -3,7 +3,7 @@
 
 # David Fit
 
-Data Scientist with experience in machine learning, predictive analytics, and applied artificial intelligence. I recently completed a B.Sc. in Data Science with Artificial Intelligence at Dublin City University and have industry experience applying machine learning and data analytics to thermal management systems through industry-led projects
+Data Scientist with experience in machine learning, predictive analytics, and applied artificial intelligence. I recently completed a B.Sc. in Data Science with Artificial Intelligence at Dublin City University and have industry experience applying machine learning and data analytics to thermal management systems through industry-led projects.
 
 ## Areas of Interest
 
