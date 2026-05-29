@@ -33,52 +33,6 @@ This GitHub serves as a collection of projects, research, and technical work spa
 * Data Visualization & Business Intelligence
 * Academic Research & Industry Collaboration
 
-## Technical Skills
-
-### Programming Languages
-
-* Python
-* SQL
-* Java
-* R
-
-### Data Science & Machine Learning
-
-* Scikit-Learn
-* XGBoost
-* LightGBM
-* CatBoost
-* Pandas
-* NumPy
-* TensorFlow
-* PyTorch
-
-### Data Engineering & Analytics
-
-* SQL Databases
-* ETL Pipelines
-* Data Cleaning & Transformation
-* Feature Engineering
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-
-### Visualization & Reporting
-
-* Power BI
-* Tableau
-* Matplotlib
-* Seaborn
-* Plotly
-
-### Tools & Platforms
-
-* Git & GitHub
-* Jupyter Notebook
-* Docker
-* Streamlit
-* Azure
-* Linux
-
 ## Current Focus
 
 * Applied AI and Machine Learning
