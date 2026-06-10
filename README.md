@@ -3,7 +3,7 @@
 # David Fit
 
 Data Scientist specialising in industrial AI, thermal systems modelling, power systems analytics, and digital twin technologies. 
-First Class Honours (1.1) graduate in Data Science & Artificial Intelligence from Dublin City University with experience applying advanced analytics, generative AI, and statistical modelling to complex engineering and energy challenges.
+First Class Honors (1.1) graduate in Data Science & Artificial Intelligence from Dublin City University with experience applying advanced analytics, generative AI, and statistical modelling to complex engineering and energy challenges.
 
 ## Areas of Interest
 
