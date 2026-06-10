@@ -21,14 +21,10 @@ First Class Honours (1.1) graduate in Data Science & Artificial Intelligence fro
 This GitHub serves as a collection of projects, research, and technical work spanning:
 
 - Machine Learning & Deep Learning Applications
-- Generative AI, RAG & LLM Systems
-- Digital Twins & Energy Analytics
 - Data Engineering Pipelines
 - Statistical Modelling & Forecasting
-- Graph Databases & Knowledge Graphs
 - Quantitative Finance Projects
 - Natural Language Processing (NLP)
-- Data Visualisation & Business Intelligence
 - Academic Research & Industry Collaboration
 
 ## Current Focus
