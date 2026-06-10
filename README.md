@@ -24,7 +24,6 @@ This GitHub serves as a collection of projects, research, and technical work spa
 - Data Engineering Pipelines
 - Statistical Modelling & Forecasting
 - Quantitative Finance Projects
-- Natural Language Processing (NLP)
 - Academic Research & Industry Collaboration
 
 ## Current Focus
