@@ -1,4 +1,4 @@
-<img src="https://github.com/davidfit21/davidfit21/blob/main/banner.png" alt="GitHub Banner" width="100%">
+<img src="https://github.com/davidfit21/davidfit21/blob/main/Banner.png" alt="GitHub Banner" width="100%">
 
 # David Fit
 
