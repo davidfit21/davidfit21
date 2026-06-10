@@ -3,38 +3,43 @@
 
 # David Fit
 
-Data Scientist with experience in machine learning, predictive analytics, and applied artificial intelligence. I recently completed a B.Sc. in Data Science with Artificial Intelligence at Dublin City University and have industry experience applying machine learning and data analytics to thermal management systems through industry-led projects.
+Data Scientist specialising in industrial AI, thermal systems modelling, power systems analytics, and digital twin technologies. 
+First Class Honours (1.1) graduate in Data Science & Artificial Intelligence from Dublin City University with experience applying advanced analytics, generative AI, and statistical modelling to complex engineering and energy challenges.
 
 ## Areas of Interest
 
-* Artificial Intelligence & Machine Learning
-* Predictive Modelling
-* Data Science & Analytics
-* Energy AI & Sustainable Technologies
-* Time Series Forecasting
-* Data Engineering & Automation
+- Artificial Intelligence & Machine Learning
+- Generative AI, RAG & Agentic Systems
+- Predictive Modelling & Forecasting
+- Digital Twins & Simulation
+- Energy AI & Sustainable Technologies
+- Data Engineering & Automation
+- Statistical Learning & Model Evaluation
 
 ## What You'll Find Here
 
 This GitHub serves as a collection of projects, research, and technical work spanning:
 
-* Machine Learning Applications
-* Predictive Analytics & Forecasting
-* Data Engineering Pipelines
-* Artificial Intelligence Research
-* Statistical Modelling
-* Quantitative Finance Projects
-* Natural Language Processing (NLP)
-* Data Visualization & Business Intelligence
-* Academic Research & Industry Collaboration
+- Machine Learning & Deep Learning Applications
+- Generative AI, RAG & LLM Systems
+- Digital Twins & Energy Analytics
+- Data Engineering Pipelines
+- Statistical Modelling & Forecasting
+- Graph Databases & Knowledge Graphs
+- Quantitative Finance Projects
+- Natural Language Processing (NLP)
+- Data Visualisation & Business Intelligence
+- Academic Research & Industry Collaboration
 
 ## Current Focus
 
-* Applied AI and Machine Learning
-* Energy & Thermal Systems Modelling
-* Data-Driven Decision Intelligence
-* Quantitative Research and Forecasting
-* Building Scalable AI Solutions
+- Applied AI and Machine Learning
+- Generative AI & Retrieval-Augmented Generation
+- Energy Systems & Thermal Performance Modelling
+- Data-Driven Decision Intelligence
+- Quantitative Research and Forecasting
+- Building Scalable AI Solutions
+
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
